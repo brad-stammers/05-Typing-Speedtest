@@ -3,11 +3,6 @@
 #   Portfolio Assignment 05 - Typing Speedtest
 ###################################################################################################
 
-#TODO: create window - time countdown, word list, txt area for typing, start button
-#TODO: set up timer, countdown in seconds, start on button click
-#TODO: get word list, lock typing field after countdown ends
-#TODO: check correct words in typed field, calculate WPM using correct words typed
-
 import tkinter as tk
 from dotenv import load_dotenv
 import os
